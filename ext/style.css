@@ -1,0 +1,30 @@
+
+body{
+
+    -webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	 background-size: cover; 
+	/* background-size: 1366px 800px; */
+	background-repeat: no-repeat;
+	/* text-shadow: 0.05rem .1rem rgba(0,0,0,0.5); */
+	height:120%;
+     font-family: sans-serif;
+     vertical-align: top;
+     margin : 0;
+     padding:0;
+}
+div{
+	display:block; 
+	color: #DB7093;
+	margin: 0;
+	vertical-align: top;
+	background-color: #FAEBD7;
+	cursor: pointer;
+	line-height: 20px;
+	height: 20px;
+	border:15px solid grey;
+	width: 250px;
+	padding:0;
+
+}

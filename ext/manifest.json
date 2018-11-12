@@ -1,0 +1,31 @@
+{
+	"name":"Background page",
+	
+	"version":"1.0",
+     "manifest_version": 2,
+
+    "description":"Because page should have Background",
+
+     "browser_action": {
+ 		"default_title":"Use a Background",
+ 		"default_popup":"popup.html"
+     	
+     },
+
+      "permissions": [
+        "tabs",
+        "notifications",
+        "http://*/",
+        "https://*/",
+        "storage",
+        "activeTab",
+        "<all_urls>"
+    ]
+
+
+
+	
+
+	
+
+}
